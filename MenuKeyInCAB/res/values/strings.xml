@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuKeyInCAB</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="menu1">menu item 1</string>
+    <string name="menu2">menu item 2</string>
+    
+    <string name="context_menu_1">context menu - 1</string>
+    <string name="context_menu_2">context menu - 2</string>
+    <string name="context_menu_3">context menu - 3</string>
+    <string name="context_menu_4">context menu - 4</string>
+    
+</resources>
